@@ -69,4 +69,4 @@ The project successfully identified the **Support Vector Machine (SVM)** as the 
 
 ## 🧑‍💻 Author
 
-**Your Name** - [GitHub Profile](https://github.com/YourGitHubUsername) - [LinkedIn Profile](https://linkedin.com/in/YourLinkedInProfile)
+**Anu Thomson** - [GitHub Profile](https://github.com/AnuThmsn) - [LinkedIn Profile](https://www.linkedin.com/in/anu-thomson/)
